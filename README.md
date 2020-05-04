@@ -35,6 +35,8 @@ The goal is to create a tool to automate one or two tasks for mapping geospatial
 **Process:** 
 
 A. organize data
+
 B. write code to create maps with Hudson Estuary Water Quality data (from HEP project)
+
 C. test adaptability of code with California landslide, fire and sample point data
  
