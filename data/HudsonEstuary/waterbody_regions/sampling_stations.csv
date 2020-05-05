@@ -1,0 +1,126 @@
+﻿Station,Description ,Latitude ,Longitude,Program,Waterbody
+K1,St. George,40.651112,-74.081945,NYCDEP,Arthur Kill and Kill van Kull
+K2,Shooters Island,40.641167,-74.153000,NYCDEP,Arthur Kill and Kill van Kull
+K3,A & K Railroad Bridge,40.637500,-74.195833,NYCDEP,Arthur Kill and Kill van Kull
+K4,Fresh Kills ,40.567000,-74.211667,NYCDEP,Arthur Kill and Kill van Kull
+K5,Tottenville,40.508833,-74.258833,NYCDEP,Arthur Kill and Kill van Kull
+19,Newark Bay - confluence with Arthur Kill,40.64750,-74.17350,NJHDG,Arthur Kill and Kill van Kull
+21,Arthur Kill - confluence with Elizabeth River,40.64395,-74.18961,NJHDG,Arthur Kill and Kill van Kull
+23,Arthur Kill - confluence with Rahway River,40.59497,-74.20745,NJHDG,Arthur Kill and Kill van Kull
+24,Arthur Kill,40.55710,-74.23637,NJHDG,Arthur Kill and Kill van Kull
+BR3,Bronx River @ Westchester Ave,40.825367,-73.884803,NYCDEP,Bronx River and Western Long Island Sound
+BR5,Mouth of Bronx River,40.813667,-73.871333,NYCDEP,Bronx River and Western Long Island Sound
+E10,Hart Island,40.843667,-73.765333,NYCDEP,Bronx River and Western Long Island Sound
+E14,"Mouth of Bronx River Buoy N""2""",40.800833,-73.864500,NYCDEP,Bronx River and Western Long Island Sound
+E6,Flushing Bay,40.785500,-73.860833,NYCDEP,Bronx River and Western Long Island Sound
+E7,Whitestone Bridge,40.805000,-73.820500,NYCDEP,Bronx River and Western Long Island Sound
+E8,Throgs Neck Bridge,40.800500,-73.783667,NYCDEP,Bronx River and Western Long Island Sound
+E2,E. 23rd Street,40.735333,-73.970000,NYCDEP,East River and Harlem River
+E4,Hell Gate,40.782500,-73.922000,NYCDEP,East River and Harlem River
+H3,E. 155th Street,40.828000,-73.933833,NYCDEP,East River and Harlem River
+13,Hackensack River - Head of Tide,40.95610,-74.02880,NJHDG,Hackensack River
+14,Hackensack River,40.79190,-74.07837,NJHDG,Hackensack River
+15,Hackensack River,40.73950,-74.08400,NJHDG,Hackensack River
+16,Hackensack River,40.71950,-74.10283,NJHDG,Hackensack River
+J12,Grassy Bay,40.633000,-73.806333,NYCDEP,Jamaica Bay
+J2,Mill Basin,40.608054,-73.885835,NYCDEP,Jamaica Bay
+J3,Canarsie Pier,40.627000,-73.882833,NYCDEP,Jamaica Bay
+J5,A train Trestle,40.597667,-73.809000,NYCDEP,Jamaica Bay
+J7,Bergen Basin,40.645333,-73.820833,NYCDEP,Jamaica Bay
+J8,Spring Creek,40.642833,-73.851167,NYCDEP,Jamaica Bay
+J9A,"Fresh Creek Buoy ""C21""",40.633833,-73.873667,NYCDEP,Jamaica Bay
+K5A,Raritan River,40.484500,-74.245833,NYCDEP,Lower Bay
+K6,Old Orchard Light,40.510333,-74.100833,NYCDEP,Lower Bay
+N16,Rockaway Point / SI-FI-W Gong,40.529667,-73.943667,NYCDEP,Lower Bay
+N9,Steeplechase Pier,40.568333,-73.983333,NYCDEP,Lower Bay
+29,Raritan Bay,40.48232,-74.18808,NJHDG,Lower Bay
+30,Raritan Bay,40.52000,-74.14600,NJHDG,Lower Bay
+N1,Mt. St. Vincent,40.914500,-73.916167,NYCDEP,Lower Hudson River
+N3B,W. 125th Street,40.820833,-73.965333,NYCDEP,Lower Hudson River
+N4,W. 42nd Street,40.764500,-74.005833,NYCDEP,Lower Hudson River
+N5,Pier A-The Battery,40.704500,-74.030000,NYCDEP,Lower Hudson River
+31,Hudson River,40.85160,-73.95220,NJHDG,Lower Hudson River
+32,Hudson River,40.76701,-74.01083,NJHDG,Lower Hudson River
+33,Hudson River,40.72351,-74.02553,NJHDG,Lower Hudson River
+N3C,W. 88th Street,40.793170,-73.981500,NYCDEP,Lower Hudson River
+N3C-85thSt,85th Street,40.793167,-73.981500,NYCDEP,Lower Hudson River
+25,Raritan River - Head of Tide,40.56610,-74.52551,NJHDG,Lower Raritan River
+26,Raritan River,40.49000,-74.40000,NJHDG,Lower Raritan River
+27,Raritan River,40.47300,-74.36000,NJHDG,Lower Raritan River
+5,Passaic River at Dundee Dam,40.87950,-74.12066,NJHDG,Passaic River and Newark Bay
+7,Passaic River at Union Ave,40.83983,-74.12433,NJHDG,Passaic River and Newark Bay
+8,Passaic River at Rutgers St,40.78616,-74.14733,NJHDG,Passaic River and Newark Bay
+10,Passaic River at Clay St,40.75120,-74.16530,NJHDG,Passaic River and Newark Bay
+11,Passaic River at Jackson Ave,40.73366,-74.15566,NJHDG,Passaic River and Newark Bay
+12,Passaic River at Kearny Point,40.71983,-74.12183,NJHDG,Passaic River and Newark Bay
+17,Newark Bay,40.69383,-74.12216,NJHDG,Passaic River and Newark Bay
+18,Newark Bay,40.65666,-74.14683,NJHDG,Passaic River and Newark Bay
+N6,"Bell Buoy ""31""",40.664667,-74.051333,NYCDEP,Upper New York Bay
+N7,"Robbins Reef Buoy ""28"" ",40.643833,-74.053833,NYCDEP,Upper New York Bay
+N8,The Narrows,40.606167,-74.045500,NYCDEP,Upper New York Bay
+AC1,Alley Creek @ Northern Blvd,40.763172,-73.751750,NYCDEP,
+AC2,Alley Creek @ CSO Outfall,40.761904,-73.751008,NYCDEP,
+BB2,Head of Bergen Basin,40.660040,-73.822160,NYCDEP,
+BB4,Mouth of Bergen Basin,40.651640,-73.823160,NYCDEP,
+BR1,Bronx River @ 231st Street,40.893142,-73.862714,NYCDEP,
+CIC2,Coney Island Creek @ Cropsey Ave,40.581667,-73.985642,NYCDEP,
+CIC3,Coney Island Creek,40.580333,-73.994167,NYCDEP,
+E11,Little Neck Bay,40.787500,-73.763333,NYCDEP,
+E12,"Eastchester Bay Buoy N""6""",40.854440,-73.809400,NYCDEP,
+E13,"Westchester Creek Buoy N""2""",40.806111,-73.841113,NYCDEP,
+E15,"Flushing Bay South Buoy N""2""",40.763000,-73.849500,NYCDEP,
+F1,Fresh Creek Outfall,40.643147,-73.884133,NYCDEP,
+F5,Mouth of Fresh Creek,40.638775,-73.878964,NYCDEP,
+FB1,Flushing Bay North,40.772042,-73.853058,NYCDEP,
+FLC1,Flushing Creek,40.762167,-73.836667,NYCDEP,
+FLC2,Flushing Creek Mouth,40.765000,-73.842833,NYCDEP,
+G2,Gowanus Canal,40.666667,-74.003333,NYCDEP,
+GB1,Gravesend Bay,40.600000,-74.013667,NYCDEP,
+GC3,Gowanus Canal @ Union St Bridge,40.679429,-73.988236,NYCDEP,
+GC4,Gowanus Canal @ Carroll St Bridge,40.678034,-73.989073,NYCDEP,
+GC5,Gowanus Canal @ 3rd St Bridge,40.676141,-73.990053,NYCDEP,
+GC6,Gowanus Canal @ 9th St Bridge,40.674167,-73.996389,NYCDEP,
+GHC,Grass Hassock Channel ,40.645330,-73.820830,NYCDEP,
+HC1,Hendrix Creek Head,40.653589,-73.878914,NYCDEP,
+HC2,Hendrix Creek @ 26th Ward Outfall,40.650775,-73.876836,NYCDEP,
+HC3,Hendrix Creek under Belt Pkwy,40.646716,-73.873563,NYCDEP,
+HR03,Hutchinson R @ Conner St Pump Station,40.880870,-73.820870,NYCDEP,
+HR1,Hutchinson River @ Bartow Ave Br,40.868700,-73.821300,NYCDEP,
+HR2,Hutchinson River @ Boston Rd Br,40.887911,-73.824031,NYCDEP,
+HOB,Head of Bay ,40.637500,-74.195830,NYCDEP,
+J1,Rockaway Inlet,40.573333,-73.884667,NYCDEP,
+J10,Paerdegat Basin,40.621667,-73.894721,NYCDEP,
+J11,Sheepshead Bay,40.581667,-73.931333,NYCDEP,
+J14,West of Broad Channel,40.609169,-73.823778,NYCDEP,
+J18,Pumpkin Patch Channel ,40.621389,-73.856389,NYCDEP,
+J16,Horse Channel,40.611425,-73.847613,NYCDEP,
+JA1,Jamaica WWTP Outfall,40.643000,-73.813000,NYCDEP,
+LN1,Little Neck Bay South,40.778000,-73.760833,NYCDEP,
+N9A,Coney Island W Outfall,40.567833,-73.935500,NYCDEP,
+NC0,English Kills,40.714961,-73.931556,NYCDEP,
+NC1,Maspeth Creek,40.724545,-73.927040,NYCDEP,
+NC2,Amoco Tank Farm,40.728833,-73.935500,NYCDEP,
+NC3,Whale Creek,40.737167,-73.946167,NYCDEP,
+NR1,North River WWTP Outfall,40.826333,-73.958160,NYCDEP,
+PB2,Midway in Paerdegat Basin,40.628000,-73.909667,NYCDEP,
+PB3,Mouth of Paerdegat Basin,40.623417,-73.899833,NYCDEP,
+SP1,Spring Creek under Belt Pkwy Overpass,40.655069,-73.860294,NYCDEP,
+SP2,Spring Creek,40.644500,-73.854167,NYCDEP,
+TB1,Thurston Basin ,40.643970,-73.748990,NYCDEP,
+TB2,Thurston Basin Mouth ,40.635760,-73.747640,NYCDEP,
+WC1, Westchester Creek @ Cross Bx Exps,40.827750,-73.842278,NYCDEP,
+WC2, Westchester Creek @ Hutch Pkwy S Bound ,40.838875,-73.839844,NYCDEP,
+WC3," Westchester Creek Mouth Buoy ""10""",40.815067,-73.843187,NYCDEP,
+POM-A,Pompton River at Rt.202/Mountainview Boulevard,40.91442,-74.27063,NJHDG,
+PAS-C,Passaic River at Horseneck Road,40.88211,-74.33985,NJHDG,
+PAS-B,Passaic River at Two Bridges Road,40.89726,-74.27277,NJHDG,
+PAS-A,Passaic River at Rt.23/Newark-Pompton Turnpike,40.88773,-74.24668,NJHDG,
+1,Passaic River at Totowa Rd,40.90416,-74.20066,NJHDG,
+2,Passaic River at Northwest St,40.92120,-74.17550,NJHDG,
+3,Passaic River at Lincoln Ave,40.94130,-74.14820,NJHDG,
+4,Passaic River at Market St,40.90266,-74.13300,NJHDG,
+6,Saddle River,40.88900,-74.08166,NJHDG,
+9,Second River,40.78350,-74.16150,NJHDG,
+20,Elizabeth River,40.64766,-74.20517,NJHDG,
+22,Rahway River,40.59926,-74.26855,NJHDG,
+28,Raritan Bay - confluence with Raritan River and Arthur Kill,40.49097,-74.26856,NJHDG,
