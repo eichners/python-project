@@ -38,5 +38,5 @@ A. organize data
 
 B. write code to create maps with Hudson Estuary Water Quality data (from HEP project)
 
-C. test adaptability of code with California landslide, fire and sample point data
+C. test adaptability of code with some other data (estuary datasets or California landslide, fire and sample point data)
  
