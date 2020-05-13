@@ -1,42 +1,44 @@
-# python geospatial project
+# Geospatial Data and Design Python Project
 
 
-This project is in progress.
+My goal for this project to create a tool or scripts to automate tasks for setting up and preparing data for geospatial data projects and to create code templates to use for processing and plotting that data. With the work flow of geospatial design projects in mind, this code is first focused on data prep and organization, and then provides templates for visual exploration.
 
-The goal is to create a tool to automate one or two tasks for mapping geospatial data, to apply one geoproccess to the data, and to create a map plot. The result will be a tool to automate some of this process and an adaptable code set for future projects. 
+**Data sources**
+Data used for this project comes from a multi faceted design job I've been working on. The primary data source is the NY-NJ Harbor Estuary Program in New York City. Some of the data comes from the NYC Open Data Portal, and USGS. 
 
-**Tasks**
+**Dependencies / Python libraries**
+Geopandas: for working with spatial data
+Matplotlib: for plotting 
+Shapely: to handle geometry
+Fiona: to read and write data 
+Descartes: to integrate Matplotlib and Shapely
 
-1: Write function to load a group of shapefiles from subfolders in one main directory into python as geodataframes.
-
-2: Project CRS
-- write a function to check that all shapefiles are in the same CRS
-- and to update CRS of any that aren't
-	
-3: clip data 
-- use study area polygon or other boundary to clip data
-- create class in data for styling 
-
-4: create plot with options for styling 
-- set bounding box
-- style data 
-	- categorical 
-	- quantitative 
-- color
-- font size
-- title
-- annotation
-- axis display
-- legend
-
-5: export plots to pdf or svg format for editing in Illustrator
-
-	
-**Process:** 
-
-A. organize data
-
-B. write code to create maps with Hudson Estuary Water Quality data (from HEP project)
-
-C. test adaptability of code with some other data (estuary datasets or California landslide, fire and sample point data)
+**Background**
+I am creating this code set to use as a reference and template for future projects as I continue to learn Python and Geopandas. As a cartographer and designer working with data visualization, I rely heavily on QGIS, spreadsheets and design software and find myself repeating many data based processes manually.  Being able to load spatial data into python and create scripts to help with repetitive tasks can cut down on time spent organizing and preparing for projects, and it can facilitate quick exploration of the data. As I developed this code it was often difficult to find clear examples for plotting and styling different types of data with Geopandas. This repository puts code needed to run a few common GIS processes and to set a few plotting parameters in one place. I hope to add to it in the future and to improve it. 
  
+ **Tasks**
+- load a group of shapefiles into memory as geodataframes
+- check the CRS of geodataframes and put all into the same projection
+- plot geodataframes in separate plots and as small multiples 
+- geoprocess for analysis: 
+	- buffer
+	- clip
+	- join
+
+- plot geodataframes to explore findings
+	- style categorical point and polygon data
+	- create and use custom palettes
+- set parameters so plots can be exported in vector format for editing 
+	
+**Examples:** 
+
+Create small multiple maps from a dictionary of geodataframes
+![Image description](img/projectdata_grid.png)
+
+Plot categorical point and polygon data
+
+![Image description](img/sampling-regions.png)
+
+Use geoprocessing for analysis and show findings
+
+![](img/polutionsources_recreation_estuary.png)
